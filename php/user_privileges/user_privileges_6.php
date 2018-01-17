@@ -1,0 +1,9 @@
+<?php
+
+
+//This is the access privilege file
+$is_admin=true;
+
+$user_info=array('user_name'=>'jsolorzano','is_admin'=>'on','user_password'=>'$1$js000000$MwOQBopSC019pLBnycy530','confirm_password'=>'$1$js000000$MwOQBopSC019pLBnycy530','first_name'=>'Johnny','last_name'=>'Sol&oacute;rzano','roleid'=>'H3','email1'=>'jsolorzano@softbuilder.com.ec','status'=>'Active','activity_view'=>'This Week','lead_view'=>'Last Week','hour_format'=>'12','end_hour'=>'','start_hour'=>'00:00','title'=>'','phone_work'=>'072881746','department'=>'','phone_mobile'=>'0999066748','reports_to_id'=>'5','phone_other'=>'+59372881746','email2'=>'','phone_fax'=>'','secondaryemail'=>'lainiguez@gmail.com','phone_home'=>'+59372881746','date_format'=>'dd-mm-yyyy','signature'=>'PresidentenSoftBuilder Cia. Ltda.','description'=>'','address_street'=>'Santiago Carrasco 3-172nRafael Torres','address_city'=>'Cuenca','address_state'=>'Azuay','address_postalcode'=>'010204','address_country'=>'Ecuador','accesskey'=>'bPN14HYN8cDZsW2w','time_zone'=>'America/Bogota','currency_id'=>'1','currency_grouping_pattern'=>'123,456,789','currency_decimal_separator'=>'.','currency_grouping_separator'=>'.','currency_symbol_placement'=>'$1.0','imagename'=>'1c1e57eddd.jpg','internal_mailer'=>'0','theme'=>'nature','language'=>'es_es','reminder_interval'=>'15 Minutes','phone_crm_extension'=>'+59372881746','no_of_currency_decimals'=>'2','truncate_trailing_zeros'=>'0','dayoftheweek'=>'Monday','callduration'=>'5','othereventduration'=>'60','calendarsharedtype'=>'public','default_record_view'=>'Summary','leftpanelhide'=>'1','rowheight'=>'medium','defaulteventstatus'=>'Planned','defaultactivitytype'=>'Meeting','hidecompletedevents'=>'0','is_owner'=>'1','currency_name'=>'USA, Dollars','currency_code'=>'USD','currency_symbol'=>'&#36;','conv_rate'=>'1.00000','record_id'=>'','record_module'=>'','id'=>'6');
+
+?>
