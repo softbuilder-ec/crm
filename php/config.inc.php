@@ -81,12 +81,12 @@ $dbconfigoption['ssl'] = false;
 
 $host_name = $dbconfig['db_hostname'];
 
-$site_URL = 'http://crm-softbuilder.rhcloud.com/';
+$site_URL = 'http://crm-vtiger-crm-softbuilder.b9ad.pro-us-east-1.openshiftapps.com/';
 
 // url for customer portal (Example: http://vtiger.com/portal)
 $PORTAL_URL = $site_URL.'portal';
 // root directory path
-$root_directory = '/var/lib/openshift/56a0faf389f5cf82c30001e5/app-root/runtime/repo/php/';
+$root_directory = '/opt/app-root/src/php/';
 
 // cache direcory path
 $cache_dir = 'cache/';
