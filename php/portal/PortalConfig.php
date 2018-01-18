@@ -17,7 +17,7 @@ global $Portal_Path;
 
 // CRM URL without out trialing /
 // Example: http://yourdomain.com/crm
-$Server_Path = "http://crm-vtiger-crm-softbuilder.b9ad.pro-us-east-1.openshiftapps.com";
+$Server_Path = "http://crm-vtiger-crm-softbuilder.b9ad.pro-us-east-1.openshiftapps.com/php";
 
 // Portal URL without trialing /
 // Example: http://yourdomain.com/portal
