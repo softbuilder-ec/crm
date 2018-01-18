@@ -17,11 +17,11 @@ global $Portal_Path;
 
 // CRM URL without out trialing /
 // Example: http://yourdomain.com/crm
-$Server_Path = "http://crm-softbuilder.rhcloud.com";
+$Server_Path = "http://crm-vtiger-crm-softbuilder.b9ad.pro-us-east-1.openshiftapps.com";
 
 // Portal URL without trialing /
 // Example: http://yourdomain.com/portal
-$Authenticate_Path = "http://crm-softbuilder.rhcloud.com/portal";
+$Authenticate_Path = "http://crm-vtiger-crm-softbuilder.b9ad.pro-us-east-1.openshiftapps.com/php/portal";
 
 //Give a temporary directory path which is used when we upload attachment
 $upload_dir = '/tmp';
