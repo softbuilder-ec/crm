@@ -46,8 +46,8 @@ $HELPDESK_SUPPORT_EMAIL_REPLY_ID = $HELPDESK_SUPPORT_EMAIL_ID;
       db_name
 */
 
-$dbconfig['db_server'] = '127.10.215.2';
-$dbconfig['db_port'] = ':3306';
+$dbconfig['db_server'] = getenv('CRM_MYSQL_SERVICE_HOST');
+$dbconfig['db_port'] = ':'.getenv('CRM_MYSQL_SERVICE_PORT');
 $dbconfig['db_username'] = 'adminREsQTqe';
 $dbconfig['db_password'] = 'Z6uQrRVl8umK';
 $dbconfig['db_name'] = 'crm';
